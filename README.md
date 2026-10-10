@@ -15,4 +15,4 @@ Planned Features
 
 When will it be completed?
 --------------------------
-Progress on development is probably going to move very slow as I'm only going to work on it sometimes in my freetime.
+Progress on development is probably going to move very slowly as I'm only going to work on it sometimes in my freetime.
